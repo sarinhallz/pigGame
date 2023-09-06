@@ -1,7 +1,9 @@
 🐽 PIG GAME 🐽
+
 O "Pig Game" é um jogo de dados de dois jogadores em que o objetivo é alcançar uma pontuação alvo (geralmente 100 pontos) antes do seu oponente. O jogo envolve rolar um dado virtual e tomar decisões estratégicas para acumular pontos, mas com o risco de perder tudo em um único lance.
 
 Regras do Jogo
+
 Objetivo
 O objetivo do jogo é alcançar uma pontuação total igual ou superior à pontuação alvo para vencer.
 
@@ -9,6 +11,7 @@ Componentes
 Dois jogadores competem entre si.
 Um dado virtual de seis lados é lançado a cada turno.
 Cada jogador tem uma pontuação total e uma pontuação atual.
+
 Regras Básicas
 No início de cada turno, o jogador ativo lança o dado virtual.
 Se o dado mostrar um número diferente de 1, o jogador adiciona esse valor à sua pontuação atual.
