@@ -10,7 +10,6 @@ var rollDice = document.querySelector(".btn.btn--roll");
 var hold = document.querySelector(".btn.btn--hold");
 
 // variáveis de controle de jogo
-var turn = false; // variável de controle de turno
 var End = false; // variável para controlar o término do jogo
 
 // inicialização das pontuações
